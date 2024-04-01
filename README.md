@@ -1,6 +1,6 @@
 ### Hi there 👋, Yagiz K. Sert
 #### Hardware Design Engineer
-![Hardware Design Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hello, I would like to showcase my work and progress in the field of hardware design using VHDL here.
 
